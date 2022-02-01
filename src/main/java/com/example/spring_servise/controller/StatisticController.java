@@ -34,3 +34,5 @@ public class StatisticController {
         return new UrlStatisticResponse(RedirectController.REDIRECTION_PREFIX, service.getRankedUrlByShortLink(link));
     }
 }
+
+
