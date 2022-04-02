@@ -12,4 +12,5 @@ import lombok.NoArgsConstructor;
 public class ResponseShortLink {
     private String link;
 
+
 }
